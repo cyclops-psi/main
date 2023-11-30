@@ -1,0 +1,3 @@
+decimal_number = 10
+binary_equivalent = bin(decimal_number)
+print("Binary Equivalent:", binary_equivalent)
